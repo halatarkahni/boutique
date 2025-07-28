@@ -37,6 +37,7 @@ export default function InscriptionPage() {
     reset();
   };
 
+
   return (
     <div className="p-8 max-w-md mx-auto">
       <h1 className="text-2xl font-bold mb-6">Formulaire d'inscription</h1>

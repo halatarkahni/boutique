@@ -11,7 +11,7 @@ export default function Header() {
       {/* Menu de navigation */}
       <nav className="space-x-50">
         <Link href="/" className="hover:underline">Accueil</Link>
-        <Link href="/produit" className="hover:underline">Produit</Link>
+        <Link href="/products" className="hover:underline">Nos Produits</Link>
         <Link href="/contact" className="hover:underline">Contact</Link>
       </nav>
 
